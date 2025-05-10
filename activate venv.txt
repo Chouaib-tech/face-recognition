@@ -1,0 +1,10 @@
+cd /home/chouaib/Documents/face-recognition1
+source venv/bin/activate
+python recognize_face.py
+deactivate
+
+
+
+
+   QT_QPA_PLATFORM=xcb python recognize_face.py
+
